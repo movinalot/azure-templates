@@ -102,6 +102,7 @@
       "type": "string",
       "defaultValue": "Standard_F2s",
       "allowedValues": [
+        "Standard_B1ms",
         "Standard_F2s",
         "Standard_F4s",
         "Standard_F8s",
